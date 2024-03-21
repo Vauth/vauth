@@ -1,7 +1,7 @@
 <h1 align="center" size="200">
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Milky%20Way.png" width="25px">
+  <a href="#Gif"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Milky%20Way.png" width="25px"></a>
   Hi, I'm Odium
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Milky%20Way.png" width="25px">
+  <a href="#Gif"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Milky%20Way.png" width="25px"></a>
 </h1><br><br>
 <p align="center">
   <a href='mailto:odium@disroot.org' target="_blank"><img alt='Email' src='https://img.shields.io/badge/Email-100000?style=flat&logo=gmail&logoColor=FF0000&labelColor=black&color=black'/></a>
