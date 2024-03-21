@@ -9,7 +9,7 @@
   <a href='https://t.me/feelded' target="_blank"><img alt='Telegram' src='https://img.shields.io/badge/Telegram-100000?style=flat&logo=Telegram&logoColor=FF0000&labelColor=black&color=black'/></a>
   <a href='https://pypi.org/user/ivuxy/' target="_blank"><img alt='Pypi' src='https://img.shields.io/badge/Pypi-100000?style=flat&logo=Pypi&logoColor=FF0000&labelColor=black&color=black'/></a>
   <a href='https://hueco.link/' target="_blank"><img alt='Website' src='https://img.shields.io/badge/Website-100000?style=flat&logo=framer&logoColor=FF0000&labelColor=black&color=black'/></a><br><br>
-  <a href="#GithubStat"><img src="https://github-stats-alpha.vercel.app/api?username=vauth&cc=000&tc=fff&ic=fff&bc=000" align="center"><br><br></a>
+  <a href="#GithubStat"><img src="https://github-stats-alpha.vercel.app/api?username=vauth&cc=000&tc=fff&ic=FF0000&bc=000" align="center"><br><br></a>
   <a href="#ViewsStat"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fvauth&count_bg=%23000000&title_bg=%23FF0000&icon=&icon_color=%23E7E7E7&title=Profile+Views&edge_flat=false"/></a><br><br>
   <a href="#StreakStat"><img src="https://streak-stats.demolab.com?user=vauth&mode=wee&theme=youtube-dark&border_radius=6.3" alt="GitHub Streak" /></a><br><br>
   <a href='https://python.org' target="_blank"><img alt='Python' src='https://img.shields.io/badge/Python-100000?style=flat&logo=python&logoColor=FF0000&labelColor=black&color=black'/></a>
