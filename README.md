@@ -25,5 +25,5 @@
   <a href='https://yaml.org' target="_blank"><img alt='YAML' src='https://img.shields.io/badge/YAML-100000?style=flat&logo=yaml&logoColor=FF8000&labelColor=black&color=black'/></a>
   <a href='https://docker.com' target="_blank"><img alt='Docker' src='https://img.shields.io/badge/Docker-100000?style=flat&logo=docker&logoColor=FF8000&labelColor=black&color=black'/></a><br><br>
   <a href="#StarStat"><img src="https://starchart.cc/vauth/node.svg?variant=adaptive" alt="stars" /></a><br><br>
-  <a href="https://spotify-github-profile.vercel.app/api/view?uid=sq3oo7vflwv2uk1nxqrbjfzk3&redirect=true"><img src="https://spotify-github-profile.vercel.app/api/view?uid=sq3oo7vflwv2uk1nxqrbjfzk3&cover_image=false&theme=compact&show_offline=false&background_color=black&&interchange=false" alt="spotify" /></a>
+  <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=sq3oo7vflwv2uk1nxqrbjfzk3&redirect=true"><img src="https://spotify-github-profile.kittinanx.com/api/view?uid=sq3oo7vflwv2uk1nxqrbjfzk3&cover_image=false&theme=compact&show_offline=false&background_color=black&&interchange=false" alt="spotify" /></a>
 </p>
