@@ -5,7 +5,7 @@
 </h1><br><br>
 <p align="center">
   <a href='mailto:odium@disroot.org' target="_blank"><img alt='Email' src='https://img.shields.io/badge/Email-100000?style=flat&logo=gmail&logoColor=FF0000&labelColor=black&color=black'/></a>
-  <a href='https://x.com/vauthbot' target="_blank"><img alt='Twitter' src='https://img.shields.io/badge/Twitter-100000?style=flat&logo=Twitter&logoColor=FF0000&labelColor=black&color=black'/></a>
+  <a href='https://x.com/vauthbot' target="_blank"><img alt='Twitter' src='https://img.shields.io/badge/Twitter-100000?style=flat&logo=X&logoColor=FF0000&labelColor=black&color=black'/></a>
   <a href='https://t.me/feelded' target="_blank"><img alt='Telegram' src='https://img.shields.io/badge/Telegram-100000?style=flat&logo=Telegram&logoColor=FF0000&labelColor=black&color=black'/></a>
   <a href='https://pypi.org/user/ivuxy/' target="_blank"><img alt='Pypi' src='https://img.shields.io/badge/Pypi-100000?style=flat&logo=Pypi&logoColor=FF0000&labelColor=black&color=black'/></a>
   <a href='https://hueco.link/' target="_blank"><img alt='Website' src='https://img.shields.io/badge/Website-100000?style=flat&logo=framer&logoColor=FF0000&labelColor=black&color=black'/></a><br><br>
