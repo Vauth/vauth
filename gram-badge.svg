@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="140" height="34" viewBox="0 0 140 34" fill="none">
+  <!-- Outer Pill Container -->
+  <rect x="0.5" y="0.5" width="139" height="33" rx="16.5" fill="#0D0E12" stroke="#1F212D" stroke-width="1"/>
+
+  <!-- Icon Circle Backdrop -->
+  <circle cx="17" cy="17" r="12" fill="#45AEF5" fill-opacity="0.15"/>
+
+  <!-- Multi-facet Gram Diamond -->
+  <g id="gram-diamond">
+    <!-- Top Table / Upper facets -->
+    <polygon points="14,13 20,13 18.5,16 15.5,16" fill="#72C6FB"/>
+    <polygon points="14,13 15.5,16 11.5,16" fill="#52B6F7"/>
+    <polygon points="20,13 22.5,16 18.5,16" fill="#389DE3"/>
+    <!-- Lower facets -->
+    <polygon points="15.5,16 18.5,16 17,21.5" fill="#45AEF5"/>
+    <polygon points="11.5,16 15.5,16 17,21.5" fill="#2F92D9"/>
+    <polygon points="18.5,16 22.5,16 17,21.5" fill="#1C7EC5"/>
+  </g>
+
+  <!-- Optically Centered Typography -->
+  <text x="35" y="21" fill="#FFFFFF" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="11" font-weight="700" letter-spacing="0.3">
+    BUY ME A <tspan fill="#45AEF5">GRAM</tspan>
+  </text>
+</svg>
