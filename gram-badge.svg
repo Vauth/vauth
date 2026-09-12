@@ -1,4 +1,5 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="140" height="34" viewBox="0 0 140 34" fill="none">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 140 34" style="width: clamp(140px, 25vw, 220px); height: auto;" fill="none">
+
   <!-- Pure Black Background, No Border -->
   <rect x="0" y="0" width="140" height="34" rx="17" fill="#000000" />
 
