@@ -5,6 +5,6 @@
   <a href="#SkillStat"><img src="https://github-widgetbox.vercel.app/api/skills?languages=js,ts,python,html,css,cpp,csharp,bash,xml,json,yaml,postgresql,mysql,markdown&tools=git,docker,npm,firebase,mongodb,vercel,redis,nodejs,heroku,apache,nginx,aws,jupyter,gradle&software=linux,windows,vscode&theme=rgb" align="center"></a><br><br>
   <a href="#StreakStat"><img src="#StreakStat"><img src="https://streak-stats.demolab.com?user=vauth&mode=week&theme=midnight-purple&border_radius=30&hide_border=true&card_width=800" alt="GitHub Streak" /></a><br><br>
   <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=sq3oo7vflwv2uk1nxqrbjfzk3&redirect=true"><img width="350" src="https://spotify-github-profile.kittinanx.com/api/view?uid=sq3oo7vflwv2uk1nxqrbjfzk3&cover_image=false&theme=compact&show_offline=false&background_color=black&&interchange=false" alt="spotify" /></a><br>
-  <a href="https://t.me/send?start=IV91nXbRbsIX"><img src="https://cdn.buymeacoffee.com/buttons/v2/arial-orange.png" width="170"></a>
+  <a href="https://app.tonkeeper.com/transfer/UQCI767H68yF-H9Q4NTxSstxogDbQ7Vv2IDIAE_RVW5D-X6P"><img src="./gram-badge.svg" width="220"></a>
   <a href="#ViewStat"><img src="https://komarev.com/ghpvc/?username=vauth&style=pixel"></a>
 </div>
